@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+ul{
+    list-style:url("https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg") ;
+}
+.log {
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+    text-align:center;
+    padding:30px 0px 30px 0px;
+}
+header {
+    background-color: cadetblue;
+}
+footer {
+    background-color: cadetblue;
+}
+.jok {
+    color:red;
+}
